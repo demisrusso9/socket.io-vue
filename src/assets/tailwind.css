@@ -1,0 +1,14 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+@layer components {
+  .you {
+    @apply items-end;
+  }
+  .other {
+    @apply items-start;
+  }
+}

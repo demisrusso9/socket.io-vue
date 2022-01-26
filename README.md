@@ -1,24 +1,23 @@
-# socket.io
+## socket.io - Vue 3
 
-## Project setup
-```
-yarn install
-```
+Tutorial: [Chat using socket.io](https://www.youtube.com/watch?v=NU-HfZY3ATQ 'Youtube video')
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+### Setup project
 
-### Compiles and minifies for production
-```
-yarn build
-```
+`yarn` to install dependencies
 
-### Lints and fixes files
-```
-yarn lint
-```
+`yarn serve` to start project
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Username and Room
+
+![](page1.png)
+
+### Chat
+
+![](page2.png)
+
+#### Todo
+
+- [ ] Auto Scroll to bottom.
+- [ ] Better UI.
+- [ ] Clear message after send it with button.
